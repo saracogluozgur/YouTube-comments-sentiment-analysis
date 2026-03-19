@@ -1,7 +1,7 @@
 # NLP Analysis of YouTube Comments on Streaming and Piracy
 
 ## Overview
-This project applies natural language processing (NLP) techniques to a dataset of YouTube comments discussing streaming services, subscription prices, and piracy. The analysis explores how viewers react to changes in the streaming market by cleaning comment text, extracting topics, visualizing frequent terms, and measuring sentiment. The project combines text preprocessing, TF-IDF vectorization, topic modelling, and sentiment analysis in Python.
+This project applies natural language processing (NLP) techniques to a dataset of YouTube comments discussing streaming services, subscription prices, and piracy from the video https://youtu.be/ObL2xm5NrCk?si=G23n3GAu2yIbilhF titled "Why the era of cheap streaming is over" from Vox. The analysis explores how viewers react to changes in the streaming market by cleaning comment text, extracting topics, visualizing frequent terms, and measuring sentiment. The project combines text preprocessing, TF-IDF vectorization, topic modelling, and sentiment analysis in Python.
 
 ## Dataset
 The dataset contains **2,120 YouTube comments** and **4 variables**:
